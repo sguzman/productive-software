@@ -19,6 +19,6 @@ A suite of free software for personal productivity. As chosen by me and suggeste
 | File Storage & Synchronization  | -                     | Nextcloud, Seafile         | -                                                |
 | Document Collaboration & Editing| -                     | CryptPad, Collabora Online | -                                                |
 | CRM & Customer Management       | -                     | SuiteCRM, EspoCRM          | -                                                |
-| Automation                      | -                     | n8n, Huginn                | -                                                |
+| Automation                      | n8n, Huginn           | n8n, Huginn                | -                                                |
 | Database Management             | -                     | Adminer, DBeaver           | -                                                |
 | RSS Reader                      | -                     | FreshRSS, Tiny Tiny RSS    | -                                                |
